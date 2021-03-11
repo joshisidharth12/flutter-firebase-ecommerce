@@ -2,13 +2,13 @@
 
 A new Flutter Ecommerce application.
 
-# home Screen
+# Home Screen
 <img src="assets/images/home.png" width = "270">
 
-# search Screen
+# Search Screen
 <img src="assets/images/search.png" width = "270">
 
-# saved Screen
+# Saved Screen
 <img src="assets/images/saved.png" width = "270">
 
 ## Getting Started
