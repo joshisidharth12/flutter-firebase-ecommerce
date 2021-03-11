@@ -1,6 +1,15 @@
 # storeapp
 
-A new Flutter application.
+A new Flutter Ecommerce application.
+
+# home Screen
+<img src="assets/images/home.png" width = "270">
+
+# search Screen
+<img src="assets/images/search.png" width = "270">
+
+# saved Screen
+<img src="assets/images/saved.png" width = "270">
 
 ## Getting Started
 
