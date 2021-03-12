@@ -2,6 +2,13 @@
 
 A new Flutter Ecommerce application.
 
+
+# Login Screen
+<img src="assets/images/login.png" width = "270">
+
+# Create Account Screen
+<img src="assets/images/create_acc.png" width = "270">
+
 # Home Screen
 <img src="assets/images/home.png" width = "270">
 
